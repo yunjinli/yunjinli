@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Jim
+- I'm interested in Computer Vision, Autonomous Driving, Deep Learning
+- I’m currently working on DeepI2P in the Computer Vision Group at TUM and Tiny AI application at Infineon
+
 
 <!--
 **yunjinli/yunjinli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
