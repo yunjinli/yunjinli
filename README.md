@@ -14,6 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-black?logo=c%2B%2B)
 ![Static Badge](https://img.shields.io/badge/c%23-black?logo=csharp)
 ![Static Badge](https://img.shields.io/badge/cmake-blue?logo=cmake&logoColor=rgb)
+![Static Badge](https://img.shields.io/badge/tvm-darkblue?logo=TVM)
 
 <!--
 **yunjinli/yunjinli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
