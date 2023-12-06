@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Jim](http://ssur.cc/yunjinli)
 - I'm interested in Computer Vision, Autonomous Driving, Deep Learning
-- I’m currently working on DeepI2P in the Computer Vision Group at TUM and Tiny AI application at Infineon
+- I’m currently working on my master's thesis in the Computer Vision Group at TUM and Tiny AI application at Infineon
 
 ### Development Tools
 ![Static Badge](https://img.shields.io/badge/python-grey?logo=python)
