@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Jim](http://ssur.cc/yunjinli)
+### Hi there 👋 I'm [Jim](https://yunjinli.github.io/)
 - I'm interested in Computer Vision, Autonomous Driving, Deep Learning
 - I’m currently working on my master's thesis in the Computer Vision Group at TUM and Tiny AI application at Infineon
 
