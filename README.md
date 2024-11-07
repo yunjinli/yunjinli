@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm [Jim](https://yunjinli.github.io/)
-- I'm interested in Computer Vision, Autonomous Driving, Deep Learning
-- I’m currently working on my master's thesis in the Computer Vision Group at TUM and [Edge AI Surface Detection](https://www.infineon.com/cms/en/applications/robotics/development-platform/) at Infineon
+- I'm a PhD student interested in 3D Computer Vision, 3D Scene Understanding, and Cross-Modal Learning.
 
 ### Development Tools
 ![Static Badge](https://img.shields.io/badge/python-grey?logo=python)
