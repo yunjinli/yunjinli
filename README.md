@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm [Jim](https://yunjinli.github.io/)
-- I'm a PhD student interested in 3D Computer Vision, 3D Scene Understanding, and Cross-Modal Learning.
+I'm a PhD student interested in 3D Computer Vision, 3D Scene Understanding, and Cross-Modal Learning.
+
+[![Jim's github stats](https://github-readme-stats.vercel.app/api?username=yunjinli&show_icons=true&theme=radical)](https://github.com/yunjinli/)
+### I'm actively working on
+- Dynamic Gaussian Splatting
+- Few-Shot Object Detection
+- Language-guided Gaussian Splatting 
 
 ### Development Tools
 ![Static Badge](https://img.shields.io/badge/python-grey?logo=python)
