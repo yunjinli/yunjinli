@@ -5,7 +5,8 @@ I'm a PhD student interested in 3D Computer Vision, 3D Scene Understanding, and 
 ### I'm actively working on
 - Dynamic Gaussian Splatting
 - Few-Shot Object Detection
-- Language-guided Gaussian Splatting 
+- Language-guided Gaussian Splatting
+- Image-LiDAR Cross-Modal Learning
 
 ### Development Tools
 ![Static Badge](https://img.shields.io/badge/python-grey?logo=python)
