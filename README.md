@@ -3,9 +3,8 @@ I'm a PhD student interested in 3D Computer Vision, 3D Scene Understanding, and 
 
 [![Jim's github stats](https://github-readme-stats.vercel.app/api?username=yunjinli&show_icons=true&theme=radical)](https://github.com/yunjinli/)
 ### I'm actively working on
-- Dynamic Gaussian Splatting
-- Language-guided Gaussian Splatting
 - Image-LiDAR Cross-Modal Learning
+- Multi-Task Semantic Segmentation
 
 ### Development Tools
 ![Static Badge](https://img.shields.io/badge/python-grey?logo=python)
