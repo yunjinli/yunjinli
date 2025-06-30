@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm [Jim](https://yunjinli.github.io/)
 I'm interested in 3D Computer Vision, 3D Scene Understanding, and Multi-Modal Learning.
-
+<!--
 [![Jim's github stats](https://github-readme-stats.vercel.app/api?username=yunjinli&show_icons=true&theme=radical)](https://github.com/yunjinli/)
+-->
 ### I'm actively working on
 - Image-LiDAR Cross-Modal Learning
 - Multi-Task Semantic Segmentation
