@@ -4,7 +4,7 @@ I'm interested in 3D Computer Vision, Scene Understanding and Reasoning, and Mul
 [![Jim's github stats](https://github-readme-stats.vercel.app/api?username=yunjinli&show_icons=true&theme=radical)](https://github.com/yunjinli/)
 -->
 ### I'm actively working on
-- VLMs for Road Scene Understanding
+- VLMs for Road Scene Reasoning
 
 ### Development Tools
 ![Static Badge](https://img.shields.io/badge/python-grey?logo=python)
