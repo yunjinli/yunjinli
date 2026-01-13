@@ -1,7 +1,5 @@
 <div align="center">
 
-# Jim Li
-
 ### Building Embodied Intelligence
 *Incoming PhD Student • Humanoid Interaction • Embodied AI*
 
