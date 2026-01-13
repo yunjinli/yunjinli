@@ -28,7 +28,7 @@ My prior research focused on giving machines a richer 3D semantic understanding.
 
 ---
 
-> *"Humans live in the 3D world, so AI should also live in 3D."*
+*"Humans live in the 3D world, so AI should also live in 3D."*
 
 ---
 
