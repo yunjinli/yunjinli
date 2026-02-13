@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Building Embodied Intelligence
-*Incoming PhD Student • Humanoid Interaction • Embodied AI*
+*PhD Student • Humanoid Interaction • Embodied AI*
 
 [Website](https://yunjinli.github.io/) • [Scholar](https://scholar.google.com/citations?user=JFgQcQcAAAAJ) • [Linkedin](https://www.linkedin.com/in/jim-li-9072ba212/)
 
