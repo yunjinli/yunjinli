@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center"> -->
 
-### Building Embodied Intelligence
-*PhD Student • Humanoid Interaction • Embodied AI*
+### Hi 👋, this is Jim. I am building embodied intelligence
+Humanoid Interaction • Embodied AI • 3D/4D Scene Reasoning
 
 [Website](https://yunjinli.github.io/) • [Scholar](https://scholar.google.com/citations?user=JFgQcQcAAAAJ) • [Linkedin](https://www.linkedin.com/in/jim-li-9072ba212/)
 
@@ -33,4 +33,4 @@ My prior research focused on giving machines a richer 3D semantic understanding.
 
 
 
-</div>
+<!-- </div> -->
