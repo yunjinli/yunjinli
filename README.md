@@ -1,10 +1,13 @@
 <!-- <div align="center"> -->
 
-### Hi 👋, this is Jim. I am building embodied intelligence
+### Hi, this is Jim 👋
+<!-- I am building embodied intelligence -->
 Humanoid Interaction • Embodied AI • 3D/4D Scene Reasoning
 
-[Website](https://yunjinli.github.io/) • [Scholar](https://scholar.google.com/citations?user=JFgQcQcAAAAJ) • [Linkedin](https://www.linkedin.com/in/jim-li-9072ba212/)
-
+[![Website](https://img.shields.io/badge/Website-252525?style=flat-square&logo=google-chrome&logoColor=white)](https://yunjinli.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=JFgQcQcAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jim-li-9072ba212/)
+<!--
 ---
 
 ### My Research Journey
@@ -31,6 +34,6 @@ My prior research focused on giving machines a richer 3D semantic understanding.
 > *"Humans live in the 3D world, so AI should also live in 3D."*
 > <br>— Jon Barron, 3DV 2025 Keynote
 
-
+-->
 
 <!-- </div> -->
