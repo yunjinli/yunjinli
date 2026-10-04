@@ -2,7 +2,7 @@
 
 ### Hi, this is Jim 👋
 <!-- I am building embodied intelligence -->
-Humanoid Interaction • Embodied AI • 3D/4D Scene Reasoning
+<!-- Humanoid Interaction • Embodied AI • 3D/4D Scene Reasoning -->
 
 [![Website](https://img.shields.io/badge/Website-252525?style=flat-square&logo=google-chrome&logoColor=white)](https://yunjinli.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=JFgQcQcAAAAJ)
